@@ -5,9 +5,9 @@ import { useEffect, useRef, useState } from "react";
 /* ============================================================
    إعدادات أساسية — عدّل قبل الرفع
    ============================================================ */
-const PHONE = "01029944403";
-const PHONE_INTL = "+201029944403";
-const WA_NUM = "201029944403";
+const PHONE = "01062890717";
+const PHONE_INTL = "+201062890717";
+const WA_NUM = "201062890717";
 const waLink = (msg: string) =>
   `https://wa.me/${WA_NUM}?text=${encodeURIComponent(msg)}`;
 const WA_DEFAULT = waLink(
