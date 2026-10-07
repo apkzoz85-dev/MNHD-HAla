@@ -17,7 +17,7 @@ const WEB3FORMS_KEY = "10b419ed-79fa-4a1b-b1c0-b9e427a2b008"; // TODO
 
 const CONV_FORM = "AW-17039137293/xgDaCPeH8ZQdEI208rw_"; // TODO
 const CONV_WHATSAPP = "AW-17039137293/lwM7CPqH8ZQdEI208rw_"; // TODO
-const CONV_CALL = "AW-XXXXXXXXXX/GlcqCP2H8ZQdEI208rw_"; // TODO
+const CONV_CALL = "AW-17039137293/GlcqCP2H8ZQdEI208rw_"; // TODO
 
 declare global {
   interface Window {
