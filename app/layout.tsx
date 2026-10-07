@@ -3,7 +3,7 @@ import Script from "next/script";
 import "./globals.css";
 
 // ====== GOOGLE ADS — PLACEHOLDER (عدّل قبل الرفع) ======
-const AW_ID = "AW-XXXXXXXXXX"; // TODO
+const AW_ID = "AW-17039137293"; // TODO
 
 export const metadata: Metadata = {
   title:
